@@ -1,8 +1,8 @@
-//Olá! Venho por meio deste compartilhar o meu primeiro projeto desenvolvido no curso da Alura: o "Jogo do Número Secreto".//
+<h1>Olá! Venho por meio deste compartilhar o meu primeiro projeto desenvolvido no curso da Alura: o "Jogo do Número Secreto".<h1>
 
-O que é?
-O "Jogo do Número Secreto" é uma aplicação interativa que desafia os jogadores a adivinharem um número secreto escolhido pelo computador. 
-Durante o curso da Alura, aprendi os conceitos básicos de lógica de programação e algoritmos, utilizando-os para criar este jogo simples, mas envolvente.
+<h2>O que é?<h2>
+<p>O "Jogo do Número Secreto" é uma aplicação interativa que desafia os jogadores a adivinharem um número secreto escolhido pelo computador. 
+Durante o curso da Alura, aprendi os conceitos básicos de lógica de programação e algoritmos, utilizando-os para criar este jogo simples, mas envolvente.<p>
 
 Principais Funcionalidades:
 
